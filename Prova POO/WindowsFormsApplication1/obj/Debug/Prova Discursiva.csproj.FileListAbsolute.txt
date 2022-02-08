@@ -1,0 +1,12 @@
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\bin\Debug\Prova Discursuva POO.exe.config
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\bin\Debug\Prova Discursuva POO.exe
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\bin\Debug\Prova Discursuva POO.pdb
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmCadEntrevistado.resources
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPrincipal.resources
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ResultadoGrafico.resources
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\Prova Discursiva.csproj.GenerateResource.Cache
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\Prova Discursuva POO.exe
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\Prova Discursuva POO.pdb
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\Prova Discursiva.csproj.AssemblyReference.cache
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\Prova Discursiva.csproj.SuggestedBindingRedirects.cache
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\obj\Debug\Prova Discursiva.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+F:\Faculdade\POO\Prova POO\Prova Discursiva Poo\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Faculdade\POO\Prova POO\Prova Discursiva Poo\obj\Debug\WindowsFormsApplication1.exe
+F:\Faculdade\POO\Prova POO\Prova Discursiva Poo\obj\Debug\WindowsFormsApplication1.pdb
+F:\Faculdade\POO\Prova POO\Prova Discursiva Poo\bin\Debug\Prova Discursuva POO.exe.config
+F:\Faculdade\POO\Prova POO\WindowsFormsApplication1\bin\Debug\Prova Discursuva POO.exe.config
